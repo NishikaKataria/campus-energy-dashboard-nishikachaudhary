@@ -1,0 +1,17 @@
+CAMPUS ENERGY SUMMARY REPORT
+-------------------------------------
+Total Campus Consumption: 94.00 kWh
+Highest-Consuming Building: admin
+Peak Load: 15.10 kWh at 2024-01-03 00:00:00
+
+Daily Trend (first 5 days):
+timestamp
+2024-01-01    36.4
+2024-01-02    27.7
+2024-01-03    29.9
+Freq: D, Name: kwh, dtype: float64
+
+Weekly Trend (first 5 weeks):
+timestamp
+2024-01-07    94.0
+Freq: W-SUN, Name: kwh, dtype: float64
